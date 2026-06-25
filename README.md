@@ -1,4 +1,4 @@
-## Experiment – 03
+## Experiment – 01 and 02
 
 ### Develop a Django Application to Display "Hello World" on the Browser
 
